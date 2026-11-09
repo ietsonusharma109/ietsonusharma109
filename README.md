@@ -5,7 +5,9 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Sonu Sharma
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=first+code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=👋+Hi,+I'M+SONU+SHARMA" alt="typing animation" />
+</h1>
 
 ### 💻 Aspiring Full Stack Developer | C++ & DSA Enthusiast
 
