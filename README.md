@@ -5,7 +5,7 @@
 
 <div align="center">
 <h1 align="center">
- 👋+Hi,+I'M+SONU+SHARMA" 
+ 👋HEY I'M SONU SHARMA" 
 
 ### 💻 Aspiring Full Stack Developer | C++ & DSA Enthusiast
 
